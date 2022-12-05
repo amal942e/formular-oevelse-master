@@ -1,0 +1,23 @@
+/* Dine styles her */
+form {
+  padding: 2rem;
+  background: rgb(238, 234, 244);
+  border-radius: 8px;
+}
+
+.form-felt {
+  margin: 20px;
+}
+
+label,
+input {
+  display: block;
+  width: 100%;
+}
+
+textarea {
+  width: 100%;
+}
+select {
+  width: 100%;
+}
